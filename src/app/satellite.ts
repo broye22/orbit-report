@@ -8,7 +8,7 @@ export class Satellite {
         this.name = name;
         this.type = type;
         this.launchDate = launchDate;
-        this. orbitType = orbitType;
-        this.operational = operational
+        this.orbitType = orbitType;
+        this.operational = operational;
     }
-}
+};
